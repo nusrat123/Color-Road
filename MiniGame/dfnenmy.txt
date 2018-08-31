@@ -1,0 +1,19 @@
+void dfnenmy()
+{
+	enemies[0].enx=30;
+	enemies[0].eny=400+60;
+	for(int i=1; i<10;i++)
+	{
+		enemies[i].enx=enemies[i-1].enx+0+rand()%100;
+		enemies[i].eny=enemies[i-1].eny+400+rand()%100;	
+		for(int j=0; j<=i;j++)
+		{
+			if((enemies[i].enx<=enemies[j].enx+30 && enemies[i].enx>=enemies[j].enx) && (enemies[i].eny<=enemies[j].eny+60 && enemies[i].eny>=enemies[j].eny)	 ||  (enemies[i].enx+30<=enemies[j].enx+30 && enemies[i].enx+30>=enemies[j].enx) && (enemies[i].eny<=enemies[j].eny+60 && enemies[i].eny>=enemies[j].eny))
+			{
+				enemies[i].enx=enemies[j].enx+30;
+				enemies[i].eny=enemies[j].eny+400+60;
+				//j=0;
+			}
+		}
+	}
+}

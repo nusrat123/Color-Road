@@ -1,0 +1,17 @@
+﻿Build started 8/31/2018 9:47:33 PM.
+     1>Project "C:\Users\User\Desktop\color road\MiniGame\MiniGame\iGraphics Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\iGraphics Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         iGraphics Project.vcxproj -> C:\Users\User\Desktop\color road\MiniGame\MiniGame\Debug\iGraphics Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\iGraphics Project.unsuccessfulbuild".
+         Touching "Debug\iGraphics Project.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Desktop\color road\MiniGame\MiniGame\iGraphics Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20

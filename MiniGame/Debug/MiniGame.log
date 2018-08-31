@@ -1,0 +1,17 @@
+﻿Build started 22-Jul-18 1:03:34 PM.
+     1>Project "C:\Users\User\Desktop\MiniGame-20180721T200719Z-001\MiniGame\MiniGame\MiniGame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MiniGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         MiniGame.vcxproj -> C:\Users\User\Desktop\MiniGame-20180721T200719Z-001\MiniGame\Debug\MiniGame.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\MiniGame.unsuccessfulbuild".
+         Touching "Debug\MiniGame.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Desktop\MiniGame-20180721T200719Z-001\MiniGame\MiniGame\MiniGame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
